@@ -1,0 +1,4 @@
+body{
+    /* 处理图片需要安装loader ,安装1.1.2版本*/
+    background: url(../img/0000.jpg);
+}
